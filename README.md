@@ -1,6 +1,6 @@
 # The Hidden Lair
 
-`The Hidden Lair` is a 2D platformer developed in Unity with C# as a course project for Unity programming. The project was created as part of the seminar work *"Unity - razvoj kompjuterskih igara"* and later polished as a portfolio project.
+`The Hidden Lair` is a 2D platformer developed in Unity with C# as a course project for Unity programming. The project was created as part of the seminar work *“Unity - razvoj kompjuterskih igara”* and later polished as a portfolio project.
 
 It is designed as a small but complete gameplay-focused project built around platforming, combat, hazards, progression systems, and a final boss encounter.
 
@@ -18,7 +18,7 @@ This repository is meant to showcase practical game programming work in Unity. I
 
 Once the WebGL build is published, the playable browser version can be found here:
 
-`Itch.io link coming soon`
+https://veselinlazic.itch.io/the-hidden-lair
 
 ## Concept
 
@@ -42,7 +42,7 @@ The game contains three scenes of progression:
 
 ### Level 1 - Jungle
 
-The first level serves as an introduction to the game's mechanics. It includes:
+The first level serves as an introduction to the game’s mechanics. It includes:
 
 - moving platforms
 - falling platforms
@@ -102,12 +102,13 @@ The project uses Unity scenes, prefabs, colliders, animation, audio, UI canvases
 
 ## Screenshots
 
-Screenshots from the current build:
-
 ![Main Menu](./Screenshots/main-menu.png)
 ![Level 1 - Jungle](./Screenshots/level1-jungle.png)
+![Level 1 - End](./Screenshots/level1-end.png)
 ![Level 2 - Cave](./Screenshots/level2-cave.png)
 ![Boss Fight](./Screenshots/boss-fight.png)
+![Win Screen](./Screenshots/win-screen.png)
+
 
 ## Project Structure
 
@@ -128,7 +129,3 @@ Screenshots from the current build:
 ## Repository Notes
 
 This repository contains the source Unity project only. Generated folders such as `Library`, `Temp`, `Logs`, `obj`, and `UserSettings` are excluded through `.gitignore`.
-
-## Portfolio Context
-
-Besides the original course implementation, this repository includes post-course cleanup and bug fixing, especially around gameplay flow, moving platforms, scene transitions, and overall project readiness for public presentation.

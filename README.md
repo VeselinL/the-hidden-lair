@@ -16,7 +16,7 @@ This repository is meant to showcase practical game programming work in Unity. I
 
 ## Play Online
 
-Once the WebGL build is published, the playable browser version can be found here:
+The playable browser version can be found here:
 
 https://veselinlazic.itch.io/the-hidden-lair
 
